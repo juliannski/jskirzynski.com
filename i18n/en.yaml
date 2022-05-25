@@ -96,7 +96,7 @@
 # About widget
 
 - id: interests
-  translation: Interests
+  translation: News
 
 - id: education
   translation: Education
