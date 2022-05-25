@@ -10,7 +10,6 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  menu_align_right = true
 
 # SEO
 
@@ -33,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: false
