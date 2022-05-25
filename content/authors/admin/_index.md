@@ -34,7 +34,7 @@ education:
     - course: MSc in Cognitive Science
       institution: University of Warsaw
       year: 2018
-    - course: BSc in Mathemetics and Cognitive Science
+    - course: BSc in Mathemetics & Cognitive Science
       institution: University of Warsaw
       year: 2016
 
@@ -70,4 +70,6 @@ email: ''
 highlight_name: true
 ---
 
-That's a very important text and I will modify it in due time cut me some slack for a little bit will ya.
+I am a PhD student at University of California, San Diego in the Computer Science & Engineering department where I am supervised by {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}}. I am also a Guest Researcher at the Max Planck Institute for Intelligent Systems in the {{< staticref "https://re.is.mpg.de" "newtab" >}}Rationality Enhancement Group{{< /staticref >}} led by {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}}. My research revolves around studying and improving human decision making using methods from interpretable machine learning and interpretable reinforcement learning.
+
+Professionally, I work as an AI designer in Education Entertainment One and help build the first-ever narrative-driven mobile game for learning English.
