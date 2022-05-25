@@ -4,13 +4,13 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-menu_align_right = true
 
 appearance:
   theme_day: minimal
   theme_night: minimal
   font: minimal
   font_size: L
+  menu_align_right = true
 
 # SEO
 
