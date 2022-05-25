@@ -78,10 +78,10 @@
 
     <div class="row">
 
-      {{ with $person.interests }}
+      {{ with $person.user_profile_latest }}
       <div class="col-md-5">
-        <div class="section-subheading">{{ i18n "news" | markdownify }}</div>
-        <ul class="ul-interests">
+        <div class="section-subheading">{{ i18n "user_profile_latest" | markdownify }}</div>
+        <ul class="ul-user_profile_latest">
           {{ range . }}
           <li>{{ . | markdownify | emojify }}</li>
           {{ end }}
