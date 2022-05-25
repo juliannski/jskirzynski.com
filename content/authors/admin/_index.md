@@ -22,12 +22,6 @@ interests:
   - Apr 2021 Our work [Automatic discovery of interpretable planning strategies] ({{< relref "https://link.springer.com/article/10.1007/s10994-021-05963-2" >}}) was published in the Machine Learning Journal.
   - Sep 2020 Started working at MPI-IS!
   - [An external link](https://www.google.com)
-  - [A post]({{< relref "https://www.google.com" >}})
-  - [A publication]({{< relref "https://www.google.com" >}})
-  - [A project]({{< relref "https://www.google.com" >}})
-  - [A relative link from one post to another post]({{< relref https://www.google.com" >}})
-  - [Scroll down to a page section with heading *Hi*](#hi)
-
 
 # Education to show in About widget
 education:
