@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Rose
+  font: minimal
   font_size: L
 
 # SEO
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Julian Skirzynski © {year}. This work is licensed under {license}'
+    notice: 'Julian Skirzynski © {year}'
     license:
       enable: true
       allow_derivatives: false
