@@ -34,7 +34,7 @@ featured: false
 url_pdf: 'https://vigilworkshop.github.io/static/papers-2021/11.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'poster.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
