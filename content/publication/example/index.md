@@ -46,8 +46,8 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://link.springer.com/article/10.1007/s10994-021-05963-2'
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery'
+url_dataset: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery/tree/master/BehavioralExperiments/01_AI-interpret_experiments_ML21'
 url_poster: ''
 url_project: ''
 url_slides: ''
