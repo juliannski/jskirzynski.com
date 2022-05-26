@@ -27,12 +27,6 @@ publication_types: ['3']
 publication: In *Submission*
 #publication_short: In *MLJ*
 
-abstract: Something
-
-
-# Summary. An optional shortened abstract.
-summary: Somethingig
-
 tags: []
 
 featured: false
@@ -45,11 +39,6 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-
-image:
-  caption: 'What will happen'
-  focal_point: ''
-  preview_only: false
 
 projects: []
 slides: ""
