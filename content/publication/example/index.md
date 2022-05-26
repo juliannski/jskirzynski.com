@@ -30,10 +30,10 @@ publication_types: ['2']
 publication: In *Machine Learning Journal*
 publication_short: In *MLJ*
 
-abstract: When making decisions, people often overlook critical information or are overly swayed by irrelevant information. A common approach to mitigate these biases is to provide decision-makers with decision aids, such as decision trees and flowcharts. Designing effective decision aids is a difficult problem. We propose that recently developed reinforcement learning methods for discovering clever heuristics for good decision-making can be partially leveraged to assist human experts in this design process. One of the biggest remaining obstacles to leveraging the aforementioned methods for improving human decision-making is that the policies they learn are opaque to people. To solve this problem, we introduce AI-Interpret: a general method for transforming idiosyncratic policies 
+abstract: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for strategy discovery and show how people's decision making improves when they use the decision trees.
 
 # Summary. An optional shortened abstract.
-summary: notin
+summary: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for strategy discovery and show how people's decision making improves when they use the decision trees.
 
 tags: []
 
