@@ -72,4 +72,4 @@ highlight_name: true
 
 I am a PhD student at University of California, San Diego in the Computer Science & Engineering department where I am supervised by {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}}. I am also a Guest Researcher at the Max Planck Institute for Intelligent Systems in the {{< staticref "https://re.is.mpg.de" "newtab" >}}Rationality Enhancement Group{{< /staticref >}} led by {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}}. My research revolves around studying and improving human decision making using methods from interpretable machine learning and interpretable reinforcement learning.
 
-Professionally, I work as an AI designer in Education Entertainment One and help build the first-ever narrative-driven mobile game for learning English.
+Professionally, I work as an AI designer and EdTech lead in Educational Entertainment One and help build the first-ever narrative-driven mobile game for learning English.
