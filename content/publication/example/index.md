@@ -30,7 +30,7 @@ publication_types: ['2']
 publication: In *Machine Learning Journal*
 publication_short: In *MLJ*
 
-abstract: When making decisions, people often overlook critical information or are overly swayed by irrelevant information. We propose that recently developed reinforcement learning methods for discovering clever heuristics for good decision-making can be partially leveraged to assist human experts in effective decision aids for those problems. In this paper, we introduce AI-Interpret: a general method for transforming idiosyncratic policies into simple and interpretable descriptions.
+abstract: When making decisions, people often overlook critical information or are overly swayed by irrelevant information.
 
 
 # Summary. An optional shortened abstract.
