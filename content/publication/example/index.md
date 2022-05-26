@@ -114,7 +114,7 @@ summary: Somethingig
 
 tags: []
 
-featured: false
+featured: true
 
 url_pdf: 'https://arxiv.org/abs/2203.02776'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery'
