@@ -34,7 +34,7 @@ education:
     - course: MSc in Cognitive Science
       institution: University of Warsaw
       year: 2018
-    - course: BSc in Mathemetics & Cognitive Science
+    - course: BSc in Mathematics & Cognitive Science
       institution: University of Warsaw
       year: 2016
 
