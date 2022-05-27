@@ -7,7 +7,7 @@ name = "Minimal"
 
   # Menu
   menu_primary = "#184157" # "#1565c0" #"#fff"
-  menu_text = "#bbdefb" #"#34495e"
+  menu_text = "#36a4f7" #"#34495e"
   menu_text_active = "#fff"#"#2962ff"
   menu_title = "#fff"#"#2b2b2b"
   
