@@ -1,7 +1,12 @@
 .navbar-light .navbar-brand {
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.4em;
   color: $sta-menu-title;
+  padding: 100px;
+}
+
+.navbar-light .navbar-nav li.nav-item {
+  font-size: 1.4em;
 }
 
 h1 {
