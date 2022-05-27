@@ -44,7 +44,7 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
-    color: "red"
+    color: red
     icon_pack: fas
     link: mailto:jskirzynski@ucsd.edu
   - icon: twitter
