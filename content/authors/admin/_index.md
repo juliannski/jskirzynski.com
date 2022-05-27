@@ -18,9 +18,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Jan 2022\: Began my PhD at UCSD!
-  - Apr 2021\: Our work <a href="{{ https://link.springer.com/article/10.1007/s10994-021-05963-2 }}" target="_blank">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
-  - Sep 2020\: Started working at MPI-IS!
+  - *Jan 2022*  Began my PhD at UCSD!
+  - *Apr 2021*  Our work <a href="{{ https://link.springer.com/article/10.1007/s10994-021-05963-2 }}" target="_blank">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
+  - *Sep 2020*  Started working at MPI-IS!
 
 # Education to show in About widget
 education:
