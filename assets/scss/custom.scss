@@ -14,8 +14,14 @@ h1 {
 }
 
 
+h5 {
+  font-weight: 700;
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+
 a,
-h3.article-title a:hover {
+h5.article-title a:hover {
   color: #fff;
   text-decoration: none;
   transition: color 0.6s ease;
