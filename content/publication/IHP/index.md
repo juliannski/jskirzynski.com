@@ -30,7 +30,7 @@ publication: In *Submission*
 
 tags: []
 
-abstract: Our work focuses on automatic extraction of planning policies used by people in decision-making experiments. The method we introduce uses clustering to identify similar behaviors, and then imitation learning apporach from our other work to describe those behaviors. Tests indicate this method achieves around 70% accuracy.
+abstract: Our work focuses on automatic extraction of planning policies used by people in decision-making experiments. The method we introduce uses clustering to identify similar behaviors, and then imitation learning apporach from our <a href="{{ \content\publication\AI_Interpret\index.md }}" target="_blank">previous work</a> to describe those behaviors. Tests indicate this method achieves around 70% accuracy.
 
 featured: false
 

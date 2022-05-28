@@ -29,12 +29,12 @@ publication: In *Visually Grounded Interaction and Language, NAACL Workshop*
 
 tags: []
 
-abstract: Here, we test if planning strategies discovered and described using our reinforcement learning (RL) pipeline from <a href="{{ \content\publication\AI_Interpret\index.md }}" target="_blank">previous work</a> can improve human decision-making in naturalistic decision-tasks. We find that it is the case for roadtrip planning, and mortgage selection.
+abstract: This paper studies the qualities of imitation learning neural net pipelines that receive additional input from a sequence of word vectors representing a sentence. We test a set of algorithms in self-driving simulators and find imitation learning conditionaed on language better differentiates known and uneen behaviors. 
 
 featured: false
 
 image:
-  caption: 'Planning tasks'
+  caption: ''
   focal_point: ''
   preview_only: false
 
