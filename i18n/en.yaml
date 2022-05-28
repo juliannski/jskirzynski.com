@@ -259,4 +259,4 @@
 # Published with
 
 - id: published_with
-  translation: Published using {wowchemy}.
+  translation: Created with the help of {wowchemy}.

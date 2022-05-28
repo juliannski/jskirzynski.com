@@ -1,4 +1,5 @@
 ---
+active: true
 title: 'Automatic discovery and description of human planning strategies'
 
 # Authors
@@ -24,7 +25,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Revision*
+publication: In *Submission*
 #publication_short: In *MLJ*
 
 tags: []
