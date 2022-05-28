@@ -70,7 +70,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Computer Science PhD student working with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}} at UCSD. I also closely collaborate with {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} from the Max Planck Institute for Intelligent Systems. My research interests concern machine learning, interpretability, computational cognitive science, and reinforcement learning. I study how to use artificial intelligence to improve human decision making.
+I am a Computer Science PhD student working with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}} at UCSD and closely collaborating with {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} from the Max Planck Institute for Intelligent Systems. My research interests concern machine learning, interpretability, computational cognitive science, and reinforcement learning. I am mostly motivated by the use of artificial intelligence in improving human decision making. 
 
 I also advise AI design at Educational Entertainment One – a company that is developing the first-ever narrative-driven mobile game for learning English.
 
