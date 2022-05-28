@@ -74,4 +74,4 @@ I am a Computer Science PhD student working with {{< staticref "https://www.berk
 
 I also advise AI design at Educational Entertainment One – a company that is developing the first-ever narrative-driven mobile game for learning English.
 
-Previously, I studied Mathematics and Cognitive Science at University of Warsaw, and Computer Science at McGill University. You can access my full {{< staticref "static/uploads/CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
+Previously, I studied Mathematics and Cognitive Science at University of Warsaw, and Computer Science at McGill University. You can access my full {{< staticref "uploads/CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
