@@ -30,11 +30,11 @@ publication_types: ['2']
 publication: In *Machine Learning Journal*
 publication_short: In *Machine Learning*
 
-abstract: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for discovering clever decision heuristics using RL, and show how people's decision making improves when they use the automatically dound desriptions.
+abstract: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for discovering clever decision heuristics using RL, and show how people's decision making improves when they use the automatically found decsriptions as decision aids.
 
 
 # Summary. An optional shortened abstract.
-summary: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for strategy discovery and show how people's decision making improves when they use the decision trees.
+summary: We present an imitation learning method for generating an intepretable description of any RL policy in form of a decision tree. We also apply that method in our pipeline for discovering clever decision heuristics using RL, and show how people's decision making improves when they use the automatically found decsriptions as decision aids.
 
 tags: []
 
