@@ -58,7 +58,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Pipeline for discovering interpretable decision aids'
+  caption: 'Discovering interpretable decision aids'
   focal_point: ''
   preview_only: false
 

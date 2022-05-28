@@ -29,7 +29,14 @@ publication: In *Visually Grounded Interaction and Language, NAACL Workshop*
 
 tags: []
 
+abstract: Here, we test if planning strategies discovered and described using our reinforcement learning (RL) pipeline from <a href="{{ \content\publication\AI_Interpret\index.md }}" target="_blank">previous work</a> can improve human decision-making in naturalistic decision-tasks. We find that it is the case for roadtrip planning, and mortgage selection.
+
 featured: false
+
+image:
+  caption: 'Planning tasks'
+  focal_point: ''
+  preview_only: false
 
 url_pdf: 'https://vigilworkshop.github.io/static/papers-2021/11.pdf'
 url_code: ''

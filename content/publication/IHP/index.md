@@ -30,7 +30,14 @@ publication: In *Submission*
 
 tags: []
 
+abstract: Our work focuses on automatic extraction of planning policies used by people in decision-making experiments. The method we introduce uses clustering to identify similar behaviors, and then imitation learning apporach from our other work to describe those behaviors. Tests indicate this method achieves around 70% accuracy.
+
 featured: false
+
+image:
+  caption: 'Discovering human planning strategies'
+  focal_point: ''
+  preview_only: false
 
 url_pdf: 'https://arxiv.org/abs/2109.14493'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableHumanPlanning'
