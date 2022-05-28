@@ -29,7 +29,7 @@ publication: In *Visually Grounded Interaction and Language, NAACL Workshop*
 
 tags: []
 
-abstract: This paper studies the qualities of imitation learning neural net pipelines that receive additional input from a sequence of word vectors representing a sentence. We test a set of algorithms in self-driving simulators and find imitation learning conditionaed on language better differentiates known and uneen behaviors. 
+abstract: This paper studies the qualities of imitation learning neural net pipelines that receive additional input from a sequence of word vectors representing a sentence. We test a set of algorithms in a self-driving simulator and find that a certain kind of language-conditioned imitation learning architectures better differentiates known and unseen behaviors. 
 
 featured: false
 
