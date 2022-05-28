@@ -24,7 +24,7 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ViGIL, NAACL Workshop*
+publication: In *Visually Grounded Interaction and Language, NAACL Workshop*
 #publication_short: In *ViGIL*
 
 tags: []
