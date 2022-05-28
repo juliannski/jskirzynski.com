@@ -30,7 +30,7 @@ publication: In *Submission*
 
 tags: []
 
-abstract: Our work focuses on automatic extraction of planning strategies used by people in decision-making experiments. The method we introduce uses clustering to identify similar behaviors, and then imitation learning approach from our <a href="{{ \..\..\ai_interpret\index.md }}" target="_blank">previous work</a> to describe those behaviors. Our tests indicate this method achieves almost 70% accuracy and could save a lot of valuable research time.
+abstract: Our work focuses on automatic extraction of planning strategies used by people in decision-making experiments. The method we introduce uses clustering to identify similar behaviors, and then imitation learning approach from our <a href="{{ \..\..\ai_interpret }}" target="_blank">previous work</a> to describe those behaviors. Our tests indicate this method achieves almost 70% accuracy and could save a lot of valuable research time.
 
 featured: false
 
