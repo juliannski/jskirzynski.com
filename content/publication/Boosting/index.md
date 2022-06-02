@@ -38,7 +38,7 @@ image:
   focal_point: ''
   preview_only: false
 
-url_pdf: 'https://arxiv.org/abs/2203.02776'
+url_pdf: 'https://arxiv.org/pdf/2203.02776.pdf'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery'
 url_dataset: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery/tree/master/BehavioralExperiments/02_DNF2LTL_experiments_22'
 url_poster: ''

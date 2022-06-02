@@ -39,7 +39,7 @@ image:
   focal_point: ''
   preview_only: false
 
-url_pdf: 'https://arxiv.org/abs/2109.14493'
+url_pdf: 'https://arxiv.org/pdf/2109.14493.pdf'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableHumanPlanning'
 url_dataset: 'https://github.com/RationalityEnhancement/InterpretableHumanPlanning/tree/main/data/human'
 url_poster: ''

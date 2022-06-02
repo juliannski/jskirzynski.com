@@ -46,7 +46,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'paper.pdf'
+url_pdf: '/content/publication/AI_Interpret/paper.pdf'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery'
 url_dataset: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery/tree/master/BehavioralExperiments/01_AI-interpret_experiments_ML21'
 url_poster: ''
