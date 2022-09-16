@@ -7,6 +7,7 @@ title: 'Boosting human decision-making with AI-generated decision aids'
 authors:
   - Frederic Becker
   - admin
+  - Bas van Opheusden
   - Falk Lieder
 
 # Author notes (optional)
@@ -15,7 +16,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2022-05-01T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1007/s42113-022-00149-y'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,7 +39,7 @@ image:
   focal_point: ''
   preview_only: false
 
-url_pdf: 'https://arxiv.org/pdf/2203.02776.pdf'
+url_pdf: 'https://link.springer.com/content/pdf/10.1007/s42113-022-00149-y.pdf'
 url_code: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery'
 url_dataset: 'https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery/tree/master/BehavioralExperiments/02_DNF2LTL_experiments_22'
 url_poster: ''

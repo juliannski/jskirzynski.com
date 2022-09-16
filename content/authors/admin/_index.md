@@ -18,6 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - <b>Sep 2022</b> Our work <a href="publication/boosting/">Boosting Human Decision-making with AI-Generated Decision Aids</a> was published in the Computational Brain & Behavior Journal.
   - <b>Jan 2022</b> Started my PhD at UCSD!
   - <b>Apr 2021</b> Our work <a href="publication/ai_interpret/">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
   - <b>Sep 2020</b> Started working at MPI-IS!
