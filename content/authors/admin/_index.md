@@ -18,6 +18,7 @@ organizations:
 
 # Interests to show in About widget
 interests:
+  - <b>May 2023</b> Our work <a href="publication/IHP/">Automatic Discovery and Description of Human Planning Strategies</a> was published in the Behavior Research Methods Journal.
   - <b>Sep 2022</b> Our work <a href="publication/boosting/">Boosting Human Decision-making with AI-Generated Decision Aids</a> was published in the Computational Brain & Behavior Journal.
   - <b>Jan 2022</b> Started my PhD at UCSD!
   - <b>Apr 2021</b> Our work <a href="publication/ai_interpret/">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
@@ -71,7 +72,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a Computer Science PhD student at UCSD working with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}} and closely collaborating with {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} from the Max Planck Institute for Intelligent Systems. My research interests concern machine learning, interpretability, computational cognitive science, and reinforcement learning. I am mostly motivated by the use of artificial intelligence in improving human decision making. 
+I am a Computer Science PhD student at UCSD working with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}} and closely collaborating with {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} from the Max Planck Institute for Intelligent Systems. My research interests concern machine learning, interpretability, human-computational cognitive science, and reinforcement learning. I am mostly motivated by the use of artificial intelligence in improving human decision making. 
 
 I also advise AI design and production at Educational Entertainment One – a company that is developing the first-ever narrative-driven mobile game for learning English.
 
