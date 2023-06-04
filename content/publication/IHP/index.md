@@ -16,7 +16,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-05-30T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3758/s13428-023-02062-z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
