@@ -24,7 +24,7 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Submissions*
+publication: In *Submission*
 #publication_short: In *ViGIL*
 
 tags: []
