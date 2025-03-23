@@ -21,22 +21,22 @@ interests:
   - <b>May 2023</b> Our work <a href="publication/IHP/">Automatic Discovery and Description of Human Planning Strategies</a> was published in the Behavior Research Methods Journal.
   - <b>Sep 2022</b> Our work <a href="publication/boosting/">Boosting Human Decision-making with AI-Generated Decision Aids</a> was published in the Computational Brain & Behavior Journal.
   - <b>Jan 2022</b> Started my PhD at UCSD!
-  - <b>Apr 2021</b> Our work <a href="publication/ai_interpret/">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
-  - <b>Sep 2019</b> Started working at MPI-IS!
+#  - <b>Apr 2021</b> Our work <a href="publication/ai_interpret/">Automatic discovery of interpretable planning strategies</a> was published in the Machine Learning Journal.
+#  - <b>Sep 2019</b> Started working at MPI-IS!
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Ph.D. in Computer Science
       institution: University of California, San Diego
       year: 2022-
-    - course: MSc in Computer Science
+    - course: M.S. in Computer Science
       institution: McGill University
       year: 2020
-    - course: MSc in Cognitive Science
+    - course: M.S. in Cognitive Science
       institution: University of Warsaw
       year: 2018
-    - course: BSc in Mathematics & Cognitive Science
+    - course: B.S. in Mathematics & Cognitive Science
       institution: University of Warsaw
       year: 2016
 
@@ -72,6 +72,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a Computer Science PhD student at UCSD working with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}} and closely collaborating with {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} from UCLA. My research interests concern machine learning, interpretability, human-computer interaction, computational cognitive science, and reinforcement learning. I am mostly motivated by the use of artificial intelligence in improving human decision making. 
+I am a Ph.D student in Computer Science at UCSD where I work with {{< staticref "https://www.berkustun.com" "newtab" >}}Berk Ustun{{< /staticref >}}. My research lies at the intersection of machine learning, cognitive science and human-computer interaction. I am broadly interested in integrating these areas to improve human decision-making. I would like to create methods that identify parts of the input space where machine learning models outperform humans, extract interpretable strategies from models, and design and empirically evaluate interventions that use these strategies to improve decision-making.
 
-Previously, I studied Mathematics and Cognitive Science at University of Warsaw, and Computer Science at McGill University. I also advised AI design and production at {{<staticref "https://miamienglishgame.com" "newtab" >}}Educational Entertainment One{{</staticref >}} – a company that was developing the first-ever narrative-driven mobile game for learning English. You can access my full {{< staticref "uploads/CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
+Previously, I was a research scientist at the Max Plank Institute where I worked with Falk Lieder  {{< staticref "https://sites.google.com/site/falklieder/home" "newtab" >}}Falk Lieder{{< /staticref >}} on interpretable reinforcement learning and on interventions to improve human planning. I also advised {{<staticref "https://miamienglishgame.com" "newtab" >}}Educational Entertainment One{{</staticref >}} – a Polish company that developed mobile games for English language learning. I obtained M.S. in Computer Science from McGill University, M.S. in Cognitive Science from University of Warsaw, and B.S. in Mathematics and Cognitive Science from University of Warsaw. You can access my full {{< staticref "uploads/CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
