@@ -164,6 +164,47 @@
         p, div, span {
             text-align: justify;
         }
+        
+        /* Mobile styles */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+                margin-top: 20px;
+            }
+            
+            .navbar-brand {
+                margin-left: 20px;
+                font-size: 1.1em;
+            }
+            
+            .publication-list li {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+            
+            .publication-image-container {
+                margin-bottom: 15px;
+                width: 100%;
+                max-width: 300px;
+            }
+            
+            .publication-image {
+                width: 100%;
+                height: 150px;
+                margin-right: 0;
+            }
+            
+            .publication-details {
+                margin: 0;
+                width: 100%;
+            }
+            
+            .publication-details strong {
+                display: block;
+                margin-bottom: 10px;
+            }
+        }
     </style>
 </head>
 <body>
