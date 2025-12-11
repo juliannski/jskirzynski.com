@@ -110,6 +110,17 @@
             max-width: 100%;
         }
 
+        .publication-image-container iframe {
+            width: 500px;
+            height: 300px;
+            object-fit: contain;
+            object-position: center;
+            margin-right: 15px;
+            border-radius: 0 0 8px 8px;
+            border: none;
+            display: block;
+        }
+
         .publication-details {
             flex-grow: 1;
             margin: 20px;
@@ -187,6 +198,12 @@
                 margin-bottom: 15px;
                 width: 100%;
                 max-width: 300px;
+            }
+
+            .publication-image-container iframe {
+                width: 100%;
+                height: 200px;
+                margin-right: 0;
             }
 
             .publication-image {
@@ -296,8 +313,7 @@
                 <li>
                     <div class="publication-image-container">
                         <div class="publication-conference">FAccT</div>
-                        <iframe width="515" height="300"
-                                src="https://www.youtube.com/embed/4eCCitBejdQ?si=ruQBSx6bBb9mqNdh"
+                        <iframe src="https://www.youtube.com/embed/4eCCitBejdQ?si=ruQBSx6bBb9mqNdh"
                                 title="YouTube"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
