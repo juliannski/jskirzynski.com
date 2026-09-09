@@ -74,6 +74,10 @@
     }
     </script>
 
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
@@ -87,9 +91,14 @@
 
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            font-size: 17px;
             line-height: 1.6;
             color: #212529;
             background-color: lightgrey;
+        }
+
+        .affiliation {
+            color: #5b636d;
         }
 
         .header--fixed {
@@ -121,6 +130,10 @@
             vertical-align: top;
             margin-left: auto;
             margin-right: auto;
+        }
+
+        h1, h2, .navbar-brand {
+            font-family: "Source Serif 4", Georgia, serif;
         }
 
         h2 {
@@ -202,36 +215,66 @@
             display: inline-block;
         }
 
-        .network-icon {
-            margin-top: 15px;
-        }
-
-        .network-icon li {
-            margin-right: 10px;
+        ul.network-icon {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px 24px;
+            list-style: none;
+            padding: 0;
+            margin: 15px 0 0;
         }
 
         .network-icon a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 4px;
             color: #36a4f7;
             text-decoration: none;
-            transition: color .6s ease;
+            font-size: 0.78rem;
         }
 
         .network-icon a:hover i {
-            transform: scale(1.2);
-        }
-
-        ul.network-icon {
-            display: inline-flex;
-            flex-direction: row;
-            flex-wrap: wrap;
-            justify-content: center;
-            list-style: none;
-            padding: 0;
-            margin: 0;
+            transform: scale(1.12);
         }
 
         .big-icon {
             font-size: 2rem;
+            transition: transform .15s ease;
+        }
+
+        .news-heading {
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin: 4px 0 6px;
+        }
+
+        .news-list {
+            list-style: none;
+            padding: 0;
+            margin: 0 0 10px;
+            font-size: 0.9rem;
+        }
+
+        .news-list li {
+            display: flex;
+            gap: 14px;
+            margin-bottom: 8px;
+        }
+
+        .news-date {
+            color: #6c757d;
+            flex-shrink: 0;
+            width: 5.5em;
+        }
+
+        .coming-soon {
+            display: inline-block;
+            color: #6c757d;
+            background: #efefef;
+            border-radius: 999px;
+            padding: 1px 12px;
+            font-size: 0.85rem;
         }
 
         p, div, span {
@@ -242,7 +285,11 @@
         @media (max-width: 768px) {
             .container {
                 padding: 20px;
-                margin-top: 20px;
+                margin-top: 70px;
+            }
+
+            ul.network-icon {
+                justify-content: center;
             }
 
             .navbar-brand {
@@ -292,21 +339,20 @@
             </div>
             <div class="col-lg-8">
                 <h1>Julian Skirzyński</h1>
-                <p>
+                <p class="affiliation">
                     PhD Candidate <br>
                     Computer Science & Engineering <br>
                     University of California, San Diego <br><br>
                     Email: jskirzynski [at] ucsd [dot] edu
                 </p>
 
-                <ul class="network-icon" aria-hidden="true">
-                    <li><a href="static/CV.pdf" target="_blank" rel="noopener" aria-label="cv"><i class="ai ai-cv big-icon"></i></a></li>
-                    <li><a href="static/statement.pdf" target="_blank" rel="noopener" aria-label="research statement"><i class="fas fa-scroll big-icon"></i></a></li>
-                    <li><a href="mailto:jskirzynski@ucsd.edu" aria-label="envelope"><i class="fas fa-envelope big-icon"></i></a></li>
-                    <li><a href="https://x.com/JSkirzynski" target="_blank" rel="noopener" aria-label="x-twitter"><i class="fab fa-x-twitter big-icon"></i></a></li>
-                    <li><a href="https://scholar.google.com/citations?user=o1_1isMAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener" aria-label="graduation-cap"><i class="fas fa-graduation-cap big-icon"></i></a></li>
-                    <li><a href="https://github.com/juliannski" target="_blank" rel="noopener" aria-label="github"><i class="fab fa-github big-icon"></i></a></li>
-                    <li></li>
+                <ul class="network-icon">
+                    <li><a href="static/CV.pdf" target="_blank" rel="noopener"><i class="ai ai-cv big-icon"></i>CV</a></li>
+                    <li><a href="static/statement.pdf" target="_blank" rel="noopener"><i class="fas fa-scroll big-icon"></i>Statement</a></li>
+                    <li><a href="mailto:jskirzynski@ucsd.edu"><i class="fas fa-envelope big-icon"></i>Email</a></li>
+                    <li><a href="https://x.com/JSkirzynski" target="_blank" rel="noopener"><i class="fab fa-x-twitter big-icon"></i>X</a></li>
+                    <li><a href="https://scholar.google.com/citations?user=o1_1isMAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener"><i class="fas fa-graduation-cap big-icon"></i>Scholar</a></li>
+                    <li><a href="https://github.com/juliannski" target="_blank" rel="noopener"><i class="fab fa-github big-icon"></i>GitHub</a></li>
                 </ul>
 
 <!--                <div class="social-links">-->
@@ -367,6 +413,14 @@
                     </iframe>
                 </div>
             </details>
+
+            <h3 class="news-heading">Recent news</h3>
+            <ul class="news-list">
+                <li><span class="news-date">Sep 2026</span><span>Started a new project on the faithfulness of LLM justifications.</span></li>
+                <li><span class="news-date">Jun 2026</span><span>New preprint: <a href="https://arxiv.org/abs/2606.04326" target="_blank" rel="noopener">Measuring What Matters: Synthetic Benchmarks for Concept Bottleneck Models</a>.</span></li>
+                <li><span class="news-date">Jun 2025</span><span>Presented <em>Discrimination Exposed?</em> at ACM FAccT 2025 in Athens.</span></li>
+                <li><span class="news-date">2025</span><span><em>Cognitive Bias Induction in LLMs</em> accepted at IJCNLP 2025.</span></li>
+            </ul>
         </section>
 
         <section id="publications">
@@ -395,7 +449,7 @@
                         <strong>On the Value of Interpretability in Human Decision-Making</strong><br>
                         <u>Julian Skirzyński</u>, Elena Glassman, Berk Ustun<br>
                         <em>In Submission</em>, 2025<br>
-                        <a href="#">[Paper]</a> <a href="#">[Code]</a>
+                        <span class="coming-soon">paper &amp; code coming soon</span>
                     </div>
                 </li>
 
@@ -421,26 +475,26 @@
 
                 <li>
                     <div class="publication-image-container">
-                        <div class="publication-conference">Computational Behavior & Behavior</div>
+                        <div class="publication-conference">Computational Brain & Behavior</div>
                         <img src="static/IHP/ihp.png" alt="IHP" class="publication-image">
                     </div>
                     <div class="publication-details">
                         <strong>Automatic discovery and description of human planning strategies</strong><br>
                         <u>Julian Skirzyński</u>, Yash Raj Jain, Falk Lieder<br>
-                        <em>Computational Behavior & Behavior</em>, 2023<br>
+                        <em>Computational Brain & Behavior</em>, 2023<br>
                         <a href="static/IHP/ihp.pdf">[Paper]</a> <a href="https://github.com/RationalityEnhancement/InterpretableHumanPlanning">[Code]</a>
                     </div>
                 </li>
 
                 <li>
                     <div class="publication-image-container">
-                        <div class="publication-conference">Computational Behavior & Behavior</div>
+                        <div class="publication-conference">Computational Brain & Behavior</div>
                         <img src="static/Boosting/boosting.png" alt="Boosting" class="publication-image">
                     </div>
                     <div class="publication-details">
                         <strong>Boosting Human Decision‑making with AI‑Generated Decision Aids</strong><br>
-                        Federic Becker, <u>Julian Skirzyński</u>, Falk Lieder<br>
-                        <em>Computational Behavior & Behavior</em>, 2022<br>
+                        Frederic Becker, <u>Julian Skirzyński</u>, Falk Lieder<br>
+                        <em>Computational Brain & Behavior</em>, 2022<br>
                         <a href="static/Boosting/boosting.pdf">[Paper]</a> <a href="https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery">[Code]</a>
                     </div>
                 </li>
@@ -452,7 +506,7 @@
                     </div>
                     <div class="publication-details">
                         <strong>Automatic discovery of interpretable planning strategies</strong><br>
-                        <u>Julian Skirzyński</u>, Federic Becker, Falk Lieder<br>
+                        <u>Julian Skirzyński</u>, Frederic Becker, Falk Lieder<br>
                         <em>Machine Learning Journal</em>, 2021<br>
                         <a href="static/AI_Interpret/ai_interpret.pdf">[Paper]</a> <a href="https://github.com/RationalityEnhancement/InterpretableStrategyDiscovery">[Code]</a>
                     </div>
