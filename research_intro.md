@@ -1,0 +1,3 @@
+# Research intro
+
+I work at the intersection of machine learning, human–computer interaction, and cognitive science. I study how the properties we build into AI interact with people’s heuristics and biases to determine when AI actually helps the people who use it. Currently, AI often produces accurate or impressive outputs, yet people may misunderstand them, overtrust them, fail to recognize their errors, or struggle to communicate what they need. This matters because AI is increasingly used in consequential settings such as healthcare, finance, policy, and education, where poor human–AI interaction can amplify errors.
